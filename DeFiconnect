@@ -1,0 +1,35 @@
+!DOCTYPE html>
+<html>
+<head>
+    <title>DeFiConnect</title>
+</head>
+<body>
+    <h1>DeFiConnect</h1>
+
+    <h2>Bringing decentralized finance tools together in one easy-to-use platform.</h2>
+
+    <p>
+        DeFiConnect is a decentralized finance platform that helps users
+        access staking, lending, borrowing, and asset management tools
+        from one dashboard.
+    </p>
+
+    <h3>Features</h3>
+    <ul>
+        <li>Wallet Connection</li>
+        <li>Token Staking</li>
+        <li>Yield Tracking</li>
+        <li>Portfolio Analytics</li>
+        <li>Secure Transactions</li>
+    </ul>
+
+    <h3>Roadmap</h3>
+    <ol>
+        <li>Platform Launch</li>
+        <li>Staking Integration</li>
+        <li>Lending & Borrowing</li>
+        <li>Cross-Chain Support</li>
+        <li>Mobile App Release</li>
+    </ol>
+</body>
+</html>
